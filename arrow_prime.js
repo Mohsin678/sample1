@@ -9,5 +9,5 @@ let isprime = (n) => {
     }
     prime == true ? console.log("prime") : console.log("not prime");
 }
-isprime(44);
-isprime(5);
+isprime(34);
+isprime(52);
